@@ -221,7 +221,7 @@ export default function Home() {
               <div className="col-md-12 mt-5 mb-5 text-center justify-content-center align-self-center">
                   <a href="https://www.instagram.com/divertidaamentes" target="_blank" style={{color: '#FF00FF'}}><FaInstagram size={80}/></a>
                   &nbsp; &nbsp; &nbsp;
-                  <a href="https://web.whatsapp.com/send?phone=5504792155482&text=Olá, quero conhecer o divertidamentes :D" target="_blank" style={{color: '#00BB2D'}}><FaWhatsapp size={80}/></a>
+                  <a href="https://api.whatsapp.com/send?phone=5504792155482&text=Olá, quero conhecer o divertidamentes :D" target="_blank" style={{color: '#00BB2D'}}><FaWhatsapp size={80}/></a>
               </div>
             </div>
           </article>
