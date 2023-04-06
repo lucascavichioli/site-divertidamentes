@@ -64,7 +64,7 @@ export default function Home() {
                     <h2>As aulas acontecem de maneiras divertidas e atrativas para as crianças. O foco é sempre direcionado no que seu filho(a) precisa</h2>
                   </div>
                   <div className="col-md-6 mb-5 text-center">
-                    <img src="../imgs/brincadeira-uno.png" className='img-fluid shadow rounded' alt="Brincadeira do UNO"/>
+                    <img src="../imgs/banner-menino.png" className='img-fluid shadow rounded' alt="Brincadeira do UNO" />
                   </div>
                 </div>
           </article>
