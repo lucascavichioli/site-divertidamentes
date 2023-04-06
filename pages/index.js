@@ -55,7 +55,7 @@ export default function Home() {
           <article>
                 <div className='row' style={backgroundColorYellow}>
                   <div className='col-lg-12 text-center mb-5 mt-5'>
-                      <h1>O melhor reforço para o seu filho(a)</h1>
+                      <h1>Ajudo seu filho(a) a perceber seus dons e a desenvolver novas habilidades e competências</h1>
                   </div>
                 </div>
                 <div className="row" style={backgroundColorYellow}>
@@ -202,7 +202,7 @@ export default function Home() {
           <article>
             <div className="row" style={backgroundColorGray}>
               <div className="col-md-5 offset-md-1 text-center mt-5 mb-5">
-                 <img src="../imgs/foto-dai.jpeg" className='img-fluid rounded-circle img-thumbnail' alt="Daiane Zimmermann" height='100px'/>
+                 <img src="../imgs/foto-dai.png" className='img-fluid' alt="Daiane Zimmermann" height='100px'/>
               </div>
               <div className="col-md-4 mb-5 text-center justify-content-center align-self-center">
                  {/*formação*/}
