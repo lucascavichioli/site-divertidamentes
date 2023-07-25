@@ -206,9 +206,10 @@ export default function Home() {
               </div>
               <div className="col-md-4 mb-5 text-center justify-content-center align-self-center">
                  {/*formação*/}
-                 <h4>"Sou professora e Psicopedagoga. Faço atendimento especializado para bebês, crianças e adolescentes. Formada em Pedagogia. 
-                 Pós-graduada em Educação e Psicopedagogia clínica e institucional.
-                 Cursos: Práticas na educação infantil, inclusão alfabetização, autismo, TDA - TDAH e atualmente cursando o método ABA e DENVER."</h4>
+                 <h4>"Sou psicopedagoga e faço atendimento para bebês, crianças e adolescentes. Formada em pedagogia e Pós graduada em psicopedagogia, cursos de inclusão, alfabetização, autismo, TDA, TDAH. Aplico método divertido com ênfase em ABA, DENVER, KUMON e Avaliação Psicopedagogica."</h4>
+                 <h4>DIVERTIDO QUE FAZ SENTIDO!</h4>
+                 <h4>Daiane Zimmermann</h4>
+                 
               </div>
             </div>
           </article>
